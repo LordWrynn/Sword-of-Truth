@@ -1,0 +1,31 @@
+|* Details how a character's stats and skills increase *|
+
+	As your character explores and learns and has experiences that change them, they will grow stronger and more skilled. This comes in 4 different ways: Stat Upgrades, Skill Levels, Spell Tiers, and Spell Mastery. Each of these types of character progression are different ways your character will become more powerful as you play.
+	
+	Stat Upgrades are when one of your Stats goes up. As you perform actions that utilize that Stat, you will gain Experience with it. Each stat has different actions that give you Experience, and the amount of Experience needed to gain a Stat Increase rises as the Stat gets higher. Each Stat Tier has a different kind of action set related to gaining Experience.
+		Tier 0 stats rarely increase. These stats are meant to represent your ability to gain other stats, and are a reflection of your inborn abilities. 
+		Tier 1 stats increase with use and with practice. Utilizing weapons or abilities that require that stat, performing actions that test them, or purposefully training those abilities are all ways to increase that stat. 
+		Tier 2 stats increase with training. This usually requires a trainer to guide you, or a specific kind of area to practice with. Using these skills is not enough to increase your ability to use them, you must practice. Some of these skills will atrophy over time if not used.
+	Different activities provide different amounts of Experience, as detailed in the Activities section of the rules.
+	
+	
+	Skill Levels are a way of representing how experienced you are with a skill. Each skill lists it's Skill Levels seperately, detailing what benefits the skill gets at those Levels. 
+		Skill levels increase with use. Each skill has a Skill Point value associated with it. While Skills can dictate what lets you gain Skill Points, there are generally 3 ways to gain Skill Points:
+			Combat Skills, unless specified otherwise, go up by 1 skill point per combat encounter as long as the Skill was used at least once.
+			Social Skills, unless specified otherwise, go up by 1 skill point per day after being used for at least an hour during that day.
+				This does not mean an hour straight of a specific social skill, but rather participating in an activity that utilizing that skill for one total hour over the course of the day.
+			Intellectual Skills, unless specified otherwise, go up by 1 skill point per week if that skill was used for at least seven hours over the course of the week.
+				Works the same as Social Skills. Intellectual Skills tend to have similar Skill Level requirements to Social Skills, but more permanent effects
+		
+		You can train a skill with a Mentor to gain Skill Points faster. The skill of the Mentor and your skill determines how much faster you gain points.
+			The Skill Point rate is your Mentor's Skill Level minus your Skill Level plus 1. e.g A Mentor with a Skill Level of 4 training you with a Skill Level of 1 gains 4x the points of normal.
+			
+			A Mentor often costs quite a bit of money, and becoming a Mentor can be a great way to earn money during downtime between adventures. Mentors cannot help train someone of the same Skill Level as them.
+	
+	
+	Spell Tiers are a representation of your power as a spell caster. For a given Spell Type, there will be a group of spells at a similar level of power or complexity that you are capable of learning and using when you have achieved that Spell Tier. As you progress in that spell type, you will unlock new Spell Tiers, and thus new spells. Spell Tiers are not always linear, and may have other prerequistes in order to unlock besides experience in a given Spell Tier.
+		Spell Tiers are unlocked by meeting their prerequistes. This may include a certain amount of Spell Mastery in spells of one or more previous tiers, a certain stat threshold, having had a certain encounter or experience, or more. Unlocking a new Spell Tier does not automatically give you any new spells, it just increases what you are capable of learning. 
+		Learning new spells is explained in the Magic section of the rules.
+	
+	
+	Spell Mastery is the spell equivalent to Skill Levels. Spells each have their own Skill Levels that increase with use, generally in a similar way to the closest Skill category (Combat, Social, or Intellectual). Spells also have Mastery Perks that benefit you when you reach certain requirements, such as having broad experience in similar spells.

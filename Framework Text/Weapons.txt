@@ -1,0 +1,16 @@
+|* A guide to how weapons work *|
+
+	Weapons are a classification of items that are meant to be used by a character to perform attacks. Most weapons have a stat requirement to be able to wield them properly, provide special Combat Skills while in use, and have damage Scaling.
+	
+	Each weapon has a handful of stats that are unique to weapons, as well as the standard stats shared by all items. A weapon typically has the following stats:
+		Attack Value(s). This may be split across multiple damage types. This value indicates how much damage will be dealt upon landing an attack with this weapon.
+		
+		Stat Requirements. One or more stats of the wielder must meet a certain threshold or suffere a severe penalty from using the weapon. This requirement can be overcome with use, primarily from training.
+		
+		Scaling. One or more of the Attack Values may increase based on how much of a determined stat you have. This generally is listed as a chart in the weapon's description, with different tiers of AV increases at certain thresholds.
+		
+		Weapon Properties. This is a list of traits the weapon has that determines parts of how it can be used. Examples include Reach, Light, Heavy, and Versatile.
+		
+	Each weapon may also have a Combat Skill associated with it that can be used while wielding that weapon. This skill is detailed on the weapon's description, and uses normal Combat Skill experience rules unless stated otherwise.
+	
+	A weapon must be equipped, meaning wielded in at least one hand, in order to gain any benefits or use any of it's skills. There may be exceptions, and those will be specifically noted on that weapon's description.

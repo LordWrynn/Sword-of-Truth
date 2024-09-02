@@ -1,0 +1,3 @@
+	
+Monster/NPC system
+	Enemies need health, AP, condition/status resistances/immunities, armor rating, abilities, items (consumable, weapons, etc that can be used or taken), languages, stats used for saving throws, initiative bonuses, movement speed, stamina value (mostly unused, but important for abilities that care about stamina)

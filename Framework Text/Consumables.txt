@@ -1,0 +1,35 @@
+|* A guide to consumable items *|
+
+Consumables
+	There are 4 types of consumables: Nourishment, Effects, Combat, and Magical.
+		Nourishment: Refers to food/drink that is used to keep your character alive and does not provide any specific buffs.
+			Each character must consume between 3 and 5 lbs of food per day to stay healthy. The amount is determined by character size. Eating too little causes a stacking debuff that reduces your max stamina and health and is reversed by eating well and sleeping
+				Food quality also has an effect on the player's health. Particularly low-quality food causes a small, stacking debuff that affects max HP and mind stats. Particularly high-quality food causes a small, non-stacking health buff and mind buff. 
+					The buff only applies when you are eating high quality food consistently. Hunger debuffs nullify the high-quality buff.
+				Overeating significantly causes a severe temporary debuff. Consistently gaining this debuff leads to a near-permanent debuff to most physical stats
+			Each character must consume between 1 and 2 gallons of water per day. This can also come in the form of other beverages, but not most alcohol. 
+				Alcohol does not count towards your water needs per day. It also provides it's own debuffs depending on the amount and strength of what was drank.
+					Some lightly alcoholic beverages do count toward your water needs, such as ale. These beverages provide only half the need they would provide if they were non-alcoholic (1 gallon of ale provides 1/2 gallon of water need)
+			
+			Nourishment does not need to be specifically tracked, but should rather just be something to make players care about carry weight, nearby food and water sources, food quality, and maintaining supplies while travelling. Ignoring this entirely is up to the DM.
+			Nourishment should not be consumed during combat, but follows general consumable rules if that happens (as detailed in Effects below)
+		
+		Effects: Refers to items that are non-magical that a player applies in some way to have some effect that is not combat related.
+			Examples of effect items would be non-magical potions, salves, poisons, and single-use tools.
+			Health potions, poultices, and other healing items generally fall under this category, if non-magical.
+			
+			Effect consumables can be used in and out of combat. While in combat, there are 3 tiers of AP usage, depending on the item. 
+				A tier 1 item would be something that takes very little time or effort, such as applying a power-increasing salve to your skin.
+				A tier 2 item is most items, including potions.
+				A tier 3 item is something complex that requires time or effort to do. These are uncommon and often specific.
+			
+				All items in a tier cost the same AP to use in combat.
+				
+		Combat: Refers to items that are specifically useful in the middle of combat. 
+			Examples include throwing knives, firebombs, etc.
+			
+			Each item has it's own listed AP cost and restrictions. 
+			
+		Magical: Refers to items with magical properties. Generally can also be considered as any of the above.
+			Magical items usually require either magical ability to use or a specific event to trigger them. They are all described individually and are very specific. 
+			

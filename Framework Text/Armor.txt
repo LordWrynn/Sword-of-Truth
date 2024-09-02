@@ -1,0 +1,13 @@
+|* Basic overview of armor *|
+
+	Armor describes a classification of items that are meant to be worn by a character and provide protection to it's wearer. There can be multiple types of armor equipped by a character at once. 
+	
+	All armor has three primary pieces traits: the Armor Set, the Armor Slot, and the Armor Class. 
+	
+	An Armor Set describes a type of armor, usually related to it's material or origin. The Set of the armor determines it's Armor Value (AV). When you have a full set of armor equipped, you get the AV value of that armor. Having only part of a set equipped gives a penalty, depending on which parts are missing. Generally, the Chestpiece is worth 50%, the Legpiece is worth 25%, and the rest of the gear (Helmet/boots/gloves/shoulders) are collectively worth the remaining 25%. 
+	
+	Armor Slot describes what type of armor the item is, how it is worn, and what penalty is applied for not having it (as listed above). The standard Armor Slots are: Chest, Legs, Head, Shoulders, Hands, and Feet. 
+	
+	Armor Class describes a grouping of Armor Sets. Armor Classes have different Weights, which require proficiency to use. Having multiple pieces of armor from the same Armor Class but different Armor Sets uses the Armor Value of the lowest AV Set, allowing the other pieces to fill in for the appropriate Slots for that Set. Wearing armor for a Class you are not proficient with does not give any AV and gives multiple penalties.
+	
+	Mixing armor from multiple Classes results in only the highest weight Class being counted. Armor from lower Classes do not contribute to your AV at all. 

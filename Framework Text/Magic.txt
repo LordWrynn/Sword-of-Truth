@@ -1,0 +1,48 @@
+			
+Magic system:
+	4 major subsystems: Spells, enchanted items, magic abilities, and the magic type/specialization system
+		The type system is what is used to determine what kind(s) of magic a given spell or effect has and how specializations work
+			Types of magic (at least additive) include: Fire, Air, Lightning, Light. Others are known but I need to investigate the books to be sure
+		
+		Spells are currently looking to use linear progression tiers. This means once you hit a certain plataeu you unlock a new selection of spells that are now within your ability to learn. 
+			Hitting a new tier does NOT automatically gain you any new spells
+			Learning new spells happens in one of 3 ways: Reading about the spell, being taught the spell, passing a check to try to learn a spell just from knowing some stuff about it (like trying to learn Fireball by understanding that it's a big ball of fire). Figuring out a spell requires a high enough int level and Han level to even attempt, as well as time and potential material costs. You cannot attempt to learn spells outside of your spell tier(s)
+		
+		Enchanted items are items imbued with magic in same way. This includes spellforms, weapons such as the Sword of Truth, and constructed spells. All of these are very rare and requires an extremely powerful and experienced wizard to create.
+			Enchanting spells have their own spell tiers that require a very high level of Han. These spells cannot be figured out, and must be learned or taught.
+		
+		Magic abilities are things inherent to a being that aren't part of their spellcasting ability. Confessor abilities, Pillar nullification, supernatural senses, etc. These are very uncommon in humanoid characters. 
+			Slides, Confessors, and Dreamwalkers would all be considered to have magic abilities.
+			
+	Using spells:
+		Spells use the same Exhaustion status that Skills do to determine if you are capable of casting or not.
+	
+		Spells in combat are used as abilities, as described in the Action Economy. Some spells require concentration to maintain, which means no other spells can be used while concentrating and no actions may be taken without breaking concentration. Being attacked or moved while concentrating requires a saving throw to hold concentration. Spells that have component ingredients don't require that you have them in-hand to use unless stated for the spell (they just need to be in your inventory).
+		
+		Spells out of combat may have a time cost associated with them, saying how long it takes to cast. Some spells may say they are only available in combat, or only available outside of combat. 
+		
+		Some spells require cooperation between multiple casters. Each assisting caster must know the spell in order to help cast, unless specified otherwise.
+		
+	A spell has some combination of the following components:
+		Combat-Only/No-Combat tag - Denotes whether the spell can be used only in combat or only out of combat
+		Name
+		Type - This refers to what the spells does (Attack, Shield, Web, etc)
+		AP Cost - How many AP it costs to use this spell in combat
+		Verbal tag - Whether using your voice is required
+		Gesture tag - Determines whether one or more gestures are required
+		Materials - List of materials required to cast. Components that are consumed are denoted with a *
+		Duration - How long the effects of the spell last, if at all
+		Casting Time - How long it takes to cast
+		Concentration tag - Whether it requires concentration to maintain
+		Description - What the spell does
+		
+	
+	Spell Tiers
+		There are various Spell Tiers that are part of the Spell Tree. Each Tier links to other tiers and may act as a pre-requisite for another Tier.
+		There are a few starting Tiers for different types of casters (Sorceresses, Witches, Wizards, etc). These are determined during character creation and are not usually exclusive to a given character type.
+		Each spell tier has a list of requirements for how to unlock it. You cannot unlock a spell tier without both meeting all requirements and having at least one requisite tier.
+		
+	Magical Abilities
+	
+	
+	Enchanted Items

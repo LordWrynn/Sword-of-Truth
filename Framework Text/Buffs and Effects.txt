@@ -1,0 +1,39 @@
+|* A list of Buffs and Debuffs, and how they work *|
+
+	Buffs, Debuffs, and Effects are the categorizations of things that affect a character temporarily. Buffs and Debuffs are split into Major and Minor sections. The Major/Minor distinctions do not mean anythign on their own, but rather are referred to by other rules. You can only have one instance of a buff type unless specified otherwise. Buffs that work the same way but affect different specific things (such as stat increases) stack so long as they aren't affecting the same stat. If multiple buffs of the same type are applied at once, the highest value is the only one that matters while multiple buffs are active.
+	
+	The following are the standard buff types:
+
+	Major buff types:
+		Increase X Stat (doesn't affect stat requirements)
+		Restore X Health/Stamina per X turns
+		Increase weapon damage by X (affects each hit of a weapon, modified by weapon attack speed ie slower weapons have higher damage and faster ones have lower)
+		Increase spell damage by X (can only affect a spell once, regardless of how many attacks it does. Also affects healing output)
+		Increase attack roll by X (affects hit rating, not damage)
+		Increase weapon attack speed by X
+		Increase defense by X (variants for damage type resistance, resistance types don't stack but you can have multiple types at once)
+		Gain X temporary hit points
+		Decrease stat requirements by X (one buff can reduce multiple stat requirements, but only one stat reduction buff can happen at once)
+		Increase AP by X per turn
+		Increase RP by X per turn
+	Minor buff types:
+		Increase movement speed by X
+		Restore X health/Stamina per turn out of combat
+		Immunity to mental crowd control effects
+		Advantage on X type saving throws
+		Reduce fall damage by X or X% (up to 100%)
+		Reduced visual (harder to see, multiple stages)
+		Reduced sound (harder to hear, multiple stages)
+		Darkvision/increased vision range (multiple stages)
+	
+	Major debuff types:
+		Inverses of all major buffs
+		Cannot cast spells
+	
+	Minor debuff types:
+		Inverse of all minor buffs
+		Mental crowd control (includes, but is not limited to: paralysis, slow)
+		
+		
+	Effects are things that happen that don't fall under a buff/debuff category. All effects stack unless stated otherwise. 
+		

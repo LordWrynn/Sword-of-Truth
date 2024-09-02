@@ -1,0 +1,9 @@
+|* An overview of how combat plays out *|
+
+	Each combatant participating in combat starts combat by rolling a d20 and subtracting their Reaction value. This is that combatant's starting Combat Initiative (CI). CI is tracked separately for players and may be tracked differently for non-player entities. CI values can range from 0 to 99.
+	
+	At the beginning of combat, subtract CI equal to the lowest CI among all combatants. The combatant with 0 CI takes their turn. If multiple combatants are at 0 CI at the same time, the combatant with the higher Reaction value takes their turn first. If one or more combatants with 0 CI have equal reaction values, each such combatant rolls 1d20 to decide the turn order. Any ties are rerolled. 
+	
+	On a combatant's turn, they may take any number of Actions. These actions use Action Points (AP), which limits how many actions can be used in their turn. AP is described in the Action Economy section of the rules. Each action has a Speed value, and at the end of your turn you sum the Speed values of all actions taken and add that to your CI.
+	
+	Once a turn is over, all combatants subtract CI equal to the lowest CI among all combatants. This repeats until combat has ended.

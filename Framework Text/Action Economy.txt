@@ -1,0 +1,7 @@
+|* Definition of the Action system *|
+
+	During their turn in combat, each combatant has a number of Action Points (AP) as determined by their stats, abilities, and effects. AP are used as the resource for using Abilities (as described in the Combat Skills section of the rules). Any unspent AP is lost at the end of the combatant's turn, and AP is gained at the beginning of their turn.
+	
+	Many abilities will have an AP penalty to using them multiple times in one turn. Some abilities have an AP cost reduction when used together, called a Combo. These are described in the abilities themselves. Abilities may also have other restrictions on using them, such as prerequisite conditions, material costs, or exclusive conditions.
+	
+	Combatants may also have Reaction Points (RP) which can be used only outside of their turn for abilities that cost RP. All RP is lost at the beginning of the combatant's turn and RP may be gained at the end of their turn.

@@ -1,0 +1,78 @@
+Characters stats (stat tiers?)
+	What I mean by stat tiers is having multiple types of stats like Dark Souls does where you have your main, upgradable stats (str, dex, int, etc) and then other less direct stats that are based on your main stats and gear and such.
+		Having 3 or 4 tiers of stats where players only normally use the 1st tier or maybe 2nd but the stats are calculated down (4th determines 3rd determines 2nd determines 1st) would make it easy to have stat priority structure
+		
+	Since I'm already stealing the Dark Souls weapon styles, why not steal the stat system too? Obviously modify it to meet my needs but the 1-99 stat leveling with softcaps seems decent and makes for simple, clean calculations.
+		Clearly attunement, resistance, and faith aren't helpful. Vitality and intelligence should be secondary stats (not directly trainable but go up over time with lots of training) with str/dex/end being primary stats. 
+			
+Stat Tiers:
+	Tier 0 - Unchanging
+		This tier is your genetic predilection for the tier 1/2 stats (how fast you gain/train str/dex and how fast you gain tier 2 stats) as well as natural magic ability
+	Tier 1 - Primary
+		This tier is your stats that change relatively often, either with training or lack of use. These are your primary physical, mental, and magic stats.
+	Tier 2 - Long-term
+		This tier is your most important stats that rarely change but with long periods of time training or going unused. Overall health, intelligence, etc all falls here.
+	Tier 3 - Specialized
+		This tier is where any playstyle-specific stats come in, as well as certain stats that don't make sense for the other categories.
+			Examples would be diplomacy as a subsection of normal mental skills, a dodge or sprinting skill for a playstyle that specifically grants that skill, etc
+				
+				
+	Tier 0 stats:
+	Magical base
+		1 to 100 scale, where the average, ungifted person would be a 5 or less. Zedd would be a 60, Nicci a 75, Richard a 90. Regular, low-mid tier wizards and sorceresses would be in the 30s to 40s, whith people who aren't really gifted but have some basic ability to sense stuff would be between 10 and 20
+			Determine this number with a 1d100 roll
+			
+			Potential change: roll 1d10 to determine magic tier
+				1-5 = No magical ability
+				6-7 = very low magic ability (minor prophecy or sense)
+				8   = low magical ability (can use the gift, but generally not very powerful)
+				9   = moderate magical ability (normal gifted, can have excellent control and power)
+				10  = highly gifted (war wizards, archmages, council of Ildakar-level powerful)
+				
+				After getting a tier, if it's not 1-5 then roll 1d20 * tier ((t7/2) * 8 = 56 bMag) 
+	Strength Base
+		1 to 100 scale. An average adult has 30 or so. Soliders and physical laborers would be around 50, a child around 5-10, and First File soliders around 70. Beyond 70 are the superfreak "Andre the Giant" style people that are unnatural in one way or another.
+			Determine this number with a 4d20+10 roll.
+		A character's strength stat determines their character's height range. Some formula like (4'8 + (21 * bStr) through (5'4 + (21  * iStr)) should be used to determine it based on iStr
+	Dexterity Base
+		1 to 100 scale. An average adult has 30 or so, a child around 5-10, craftsmen and atheletes around 50, and specialized experts/gymnists around 70. Beyond 70 are considered particularly gifted, with only above 85 being considered superhuman
+			Determine this number with a 4d20+10 roll
+	Intelligence Base
+		1 to 100 scale. An Average adult has 30 or so, a child around 5-10, scholars and nobles around 50, and wizards around 70. Upwards of 80 are considered to be unrivaled geniuses and are almost always Maker wizards if they have the gift and brilliant scientists if not
+			Determine this number with a 4d20+10 roll
+	Vitality Base
+		etc etc, follow the above
+			
+	For the non-magic base stats, after rolling all 3 you may take a 10 point deduction from your highest stat to reroll the lowest dice of your lowest stat once and keep the higher value. You can do this only once per character.
+	
+	
+
+	Tier 1 stats:
+		Strength
+			1 to 100 scale, avg adult has around 30 (copies from bStr)
+		Dexterity
+			copies from bDex
+		Intelligence
+			copies from bInt
+			Used in problem solving and magic. Clarity determines your ability to utilize your intelligence (being drunk but smart means you can't think well but being sober and stupid isn't better)
+		Endurance
+			1 to 100 scale. Determines ability to use physical faculties. Used in physical combat, feats of strength, and travelling. The average endurance is 50, with 0 being effectively dead and 100 being for those who are incapable of becoming tired through any means.
+				A bell curve is applied here, so the value isn't linear
+			This stat can change relatively often, though it's generally constant. Is strongly affected by bVit and for most characters will stay around 50. Those who regularly do physical work (including combat or long treks) will stay around 70. Scholars and those who don't need to move around much will stay around 30.
+		Magic 
+			Always defauts to 0 if the magical base in under a certain threshold (say 10)
+			1 to 100 scale. Determines ability to utilize the gift (or other magic abilities). Most entirely unexperienced gifted will have around 10, with experienced gifted having between 30 and 50. Reaching 100 would mean total control of all magic powers within your realm of ability, nearing godhood.
+				0 means no magical abilities whatsoever, beyond the ability to see and feel the affects of magic. Is strongly affected by bMag. This stat only goes down naturally with long neglect, and does not go up easily. It generally takes years of practice for a normal gifted person to go up even 10 points naturally.
+		Morality stat?
+			replacement on the alignment system, a way to force/coerce players to play in character (doing an action that is against a character's alignment requires a failed int saving throw or smth)
+			
+	Tier 2 stats:
+		History
+		Athletics
+		Acrobatics
+		Stealth
+		Fine Motor Control
+		Nature
+		Survival
+		Performance
+		Persuasion

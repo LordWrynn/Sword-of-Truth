@@ -1,0 +1,19 @@
+|* A guide to skills that are used in combat *|
+
+
+Combat Skills
+	Combat Skills
+	Separate from combat actions (which encompasses movement, interaction, items, etc)
+	Combat skills fall into 3 types: character abilities, weapon abilities, and item abilities
+		Character abilities are things your character knows how to do. These are either skills you learned or were granted to you somehow. Magic-augmented attacks count as character abilities most of the time.
+		Weapon abilities are abilities that are given to you by your weapon. You must be able to wield that weapon properly to use these abilities.
+		Item abilities are combat abilities of items that are not weapons, such as healing potions or firebombs. These are specific to the item and often require specific circumstances if they aren't of the basic "consume/throw" variety.
+		
+	All combat skills have an AP cost. This may be a cost of 0. Skills may have a cooldown (from a number of turns to once per rest, etc), a material cost (arrows, the item itself, a magical catalyst, etc), and/or an activation requirement. 
+		Cooldowns specify how long before the ability can be used again. Some cooldowns may be conditional or reducable.
+		Material cost is specified in the ability, and may affect the ability or simply be required to activate it. An arrow is required to fire a bow, and the type of arrow augments the damage output.
+		Activation requirements are when certain conditions must be met to use the skill. This includes using the right type of weapon, being in certain locations, the target being in a certain state, etc. 
+		
+	Combos are a type of skill that involves multiple actions. These often have stricter activation requirements and cooldowns with increased AP costs.
+		Combos often include multiple weapon abilities, a combination of weapon abilities, player abilities, and/or magic abilities, or one ability repeated multiple times at once with certain modifiers.
+		
