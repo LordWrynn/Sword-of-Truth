@@ -1,0 +1,5 @@
+|* A list of stats that represent the status of your character *|
+
+Exhaustion: used to represent how tired you are from magic, physical abilities, and travel
+
+Sanity: 
